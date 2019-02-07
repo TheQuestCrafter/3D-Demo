@@ -13,14 +13,31 @@ MonoBehaviour:
   m_Name: ProBuilderPreferences
   m_EditorClassIdentifier: 
   m_Bool_keys: []
-  m_Int_keys: []
-  m_Float_keys: []
-  m_String_keys: []
+  m_Int_keys:
+  - pbDefaultEditLevel
+  - pbHandleAlignment
+  - pbDefaultSelectionMode
+  - pb_GIWorkflowMode
+  - pbVertexColorTool
+  m_Float_keys:
+  - pbEditorScroll.x
+  - pbEditorScroll.y
+  - pbBevelAmount
+  m_String_keys:
+  - pbCurrentMaterialPalette
+  - pbVertexColorPrefs7
+  - pbVertexColorPrefs3
   m_Color_keys: []
   m_Material_keys: []
   m_Bool_values: 
-  m_Int_values: 
-  m_Float_values: []
-  m_String_values: []
+  m_Int_values: 0000000000000000000000000000000000000000
+  m_Float_values:
+  - 0
+  - 0
+  - 5
+  m_String_values:
+  - Assets/ProCore/ProBuilder/Data/Default Material Palette.asset
+  - RGBA(0.689, 0.646, 0.646, 1.000)
+  - RGBA(0.462, 0.324, 0.085, 1.000)
   m_Color_values: []
   m_Material_values: []
